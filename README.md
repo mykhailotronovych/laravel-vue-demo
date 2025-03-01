@@ -69,7 +69,3 @@ npm run dev
 ```
 
 #### All set.. Navigate to site url to browse demo. 
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
